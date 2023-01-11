@@ -1,0 +1,38 @@
+body {
+    background-size: cover;
+    
+}
+
+
+.heading {
+    width: 100%;
+font-size: large;
+margin: 0%;
+}
+
+
+.button {
+    font-size: x-large;
+}
+
+
+canvas {
+    box-shadow: 5px 5px 5px grey;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: grey;
+    color: #fff;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 15px;
+    position: center;
+}
